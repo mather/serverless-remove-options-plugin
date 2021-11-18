@@ -1,5 +1,8 @@
 # Serverless Remove OPTIONS Plugin
 
+[![npm version](https://badge.fury.io/js/serverless-remove-options-plugin.svg)](https://badge.fury.io/js/serverless-remove-options-plugin)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Serverless Framework plugin for remove OPTIONS method from API Gateway resources.
 
 ## Use Case
